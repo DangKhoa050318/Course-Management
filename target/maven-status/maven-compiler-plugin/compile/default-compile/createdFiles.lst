@@ -1,0 +1,10 @@
+com\mycompany\coursesmanage\JakartaRestConfiguration.class
+model\Course.class
+model\Student.class
+test\TestJPA.class
+util\JPAUtil.class
+servlet\StudentServlet.class
+servlet\CourseServlet.class
+com\mycompany\coursesmanage\resources\JakartaEE11Resource.class
+repository\StudentRepository.class
+repository\CourseRepository.class
